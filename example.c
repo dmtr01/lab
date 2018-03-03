@@ -1,7 +1,7 @@
 lic class test {
 
 public static void main(String[] args) {
-	printf
+	nr1
 	}
 
 }
